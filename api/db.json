@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "this is my stream",
+      "id": 1
+    },
+    {
+      "description": "stream",
+      "title": "Another stream",
+      "id": 2
+    },
+    {
+      "title": "Stream",
+      "description": "this is a good stream",
+      "id": 3
+    },
+    {
+      "title": "P nav",
+      "description": "navigation 3",
+      "id": 5
+    },
+    {
+      "title": "Streaming component reuse",
+      "description": "reuse me",
+      "userId": "103399778561341096853",
+      "id": 6
+    }
+  ]
+}
